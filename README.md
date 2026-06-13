@@ -7,9 +7,9 @@ Este projeto tem como objetivo analisar os fatores associados à evasão escolar
 **Disciplina:** Análise de Dados  
 **Professor(a):** Howard Cruz Roatti   
 **Equipe:** 
-- Ricardo da Silva Junior
 - Felipe Rodrigues Barzilai
 - Gabriel Rodrigo Lapa Rocha
+- Ricardo da Silva Junior
 - Hevellyn Monteiro Medeiros
 - Wagner dos Santos Cristo
 
