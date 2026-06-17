@@ -24,7 +24,7 @@ O trabalho foi dividido em 3 partes:
 
 ## 🎥 Apresentação do MVP (Entrega 3)
 O vídeo com a demonstração completa da solução e os insights da análise de dados pode ser acessado no link abaixo:
-**[Clique AQUI PARA ASSISTIR A APRESENTAÇÃO](https://drive.google.com/drive/folders/1ASar3Mtgz9Te79nFBLR0gi7gMNWWmbkN?usp=drive_link)**
+**[CLIQUE AQUI PARA ASSISTIR A APRESENTAÇÃO](https://drive.google.com/drive/folders/1ASar3Mtgz9Te79nFBLR0gi7gMNWWmbkN?usp=drive_link)**
 
 
 ## Onde estão os dados?
